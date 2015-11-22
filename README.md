@@ -1,5 +1,6 @@
-# get_data_project
-Project of coursera Get data course
+# run_analysis.R
+## Project of coursera Get data course
+## Description of the script
 
 Script explanation
 the script follows the given instructions for the project.
